@@ -1,0 +1,49 @@
+/* Esse é um seletor por id */
+
+#titulo {
+    color:white;;
+    text-align: center;
+    background-color:purple;
+}
+
+/* Esse é um seletor por tipo e id */
+
+p#descricao {
+    color:orange;
+    text-align: center;
+}
+
+/* Esse é um seletor por classe */
+
+/* .promocao {
+    text-align: center;
+    background-color:lightgreen;
+} */
+
+/* Esse é um seletor por tipo e classe */
+
+p.promocao {
+    text-align: center;
+    background-color:purple;
+}
+
+.nova {
+    color:white;
+}
+
+/* Todo p que tenha a classe final-pagina e cujo id seja rodape */
+p.final-pagina#rodape {
+    background-color: lightgray;
+    text-align: center;
+}
+.curso, .novo-curso, #contato {
+    background-color:aliceblue;
+    color:purple;
+    padding: 12px;
+    border: 1px solid lightgray;
+}
+
+.final-pagina {
+    background-color:lightgray;
+    text-align: center;
+}

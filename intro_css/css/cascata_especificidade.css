@@ -1,0 +1,3 @@
+/* p {
+    color:red !important; important ele prioriza, sobrepondo a ordem de especificidade padrão (in-line, head, e no próprio arquivo css)
+} */
